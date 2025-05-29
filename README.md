@@ -1,2 +1,2 @@
-# repo1
+# repos1
 Repository 1 for learning it
